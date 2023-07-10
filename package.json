@@ -4,8 +4,7 @@
   "description": "Es una simple table de multiplicar con archivo de texto",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "base3": "node app --base=3"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "yechua-silva",
   "license": "MIT",
