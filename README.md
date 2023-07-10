@@ -1,5 +1,5 @@
 # Tablas de Multiplicar con Node
-## Notas
+## Notas:
 Los agumentos para crear un archivo txt, en la carpeta salida integrada en el repositorio
 
 ```
@@ -13,11 +13,11 @@ Options:
 ```
 
 ## Instalacion
-- Clonar repositorio con 
+- Clonar repositorio con:
 ```
 git clone https://github.com/yechua-silva/proyecto-node-tablas
 ```
-- Instalar dependencia con
+- Instalar dependencia con:
 ```
 npm install
 ```
