@@ -12,6 +12,12 @@ Options:
   -l, --listar   Muestra la tabla en consola          [boolean] [default: false]
 ```
 
+## Descripcion
+La app toma un base para hacer la tabla sobre esta, con el argumento    ```-b```  o  ```--base``` seguido del numero. <br>
+Tambien toma como argumento hasta que numero sera la tabla en cuestion que por default lo hace hasta el 10, en caso de no entregar el argumento, con ```-h``` o  ```--hasta``` seguido del numero. <br>
+Tambien toma un argumento que es opcional, que es de listar la tabla en consola, con ```-l```  o  ```--listar```. Por default no lo lista. <br>
+Ejemplo para crear un tabla con base 5, hasta el 15, listandola en consola. <br>
+```node app -b 5 -h 15 -l```
 ## Instalacion
 - Clonar repositorio con:
 ```
