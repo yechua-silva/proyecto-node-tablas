@@ -21,7 +21,7 @@ Ejemplo para crear un tabla con base 5, hasta el 15, listandola en consola. <br>
 ## Instalacion
 - Clonar repositorio con:
 ```
-git clone https://github.com/yechua-silva/proyecto-node-tablas
+git clone https://github.com/yechua-silva/proyecto-node-tablas.git
 ```
 - Instalar dependencia con:
 ```
